@@ -1,0 +1,7 @@
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\bin\Debug\CaroUniversityApp.exe.config
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\bin\Debug\CaroUniversityApp.exe
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\bin\Debug\CaroUniversityApp.pdb
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\obj\Debug\CaroUniversityApp.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\obj\Debug\CaroUniversityApp.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\obj\Debug\CaroUniversityApp.exe
+C:\Users\USER\OneDrive\Desktop\C#\CaroUniversityApp\obj\Debug\CaroUniversityApp.pdb
