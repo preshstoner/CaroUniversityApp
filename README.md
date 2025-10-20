@@ -23,7 +23,7 @@ Console Application
 Clone the repository:
 
 bash
-git clone https://github.com/preshstoner/caro-university-transparency-app.git
+git clone [https://github.com/preshstoner/caro-university-transparency-app.git](https://github.com/preshstoner/CaroUniversityApp.git)
 Open the solution in Visual Studio 2017 or later.
 
 Build and run the project (F5 or Ctrl + F5).
